@@ -117,7 +117,7 @@ def main():
     
     # predict price and print it
     price = predict_price(make, model, trim, year, mileage, usedcert)
-    print(f"Predicted price: ${price}")
+    print(f"\nPredicted price: ${price}")
 
 if __name__ == "__main__":
     main()
