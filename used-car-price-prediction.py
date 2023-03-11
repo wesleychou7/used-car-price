@@ -61,12 +61,12 @@ def get_subdata(df, make, model, trim):
     return X_train, y_train 
 
 
-def scale_data(X_train):
+def scale_data(X):
     
     scaler = preprocessing.RobustScaler()
-    scaled_X_train = scaler.fit_transform(X_train)
+    scaled_X = scaler.fit_transform(X)
     
-    return scaled_X_train
+    return scaled_X
 
 
 def create_model(scaled_X_train, y_train):
@@ -77,16 +77,6 @@ def create_model(scaled_X_train, y_train):
     
     return model
 
-
-def scale_input(X_input):
-    
-    user_input = np.array(X_input).reshape(1,3) # 1 by 3 array
-    
-    scaler = preprocessing.RobustScaler()
-    scaled_user_input = scaler.transform(user_input)
-    
-    return scaled_user_input
-    
     
 def predict_price(make, model, trim, year, mileage, usedcert):
     """
@@ -102,7 +92,7 @@ def predict_price(make, model, trim, year, mileage, usedcert):
     # create linear regression model
     ML_model = create_model(X_scaled, y)
     # scale input
-    scaled_in = scale_input([year, mileage, usedcert])
+    scaled_in = scale_data([[year, mileage, usedcert]])
     # predict price
     price = ML_model.predict(scaled_in)
     
