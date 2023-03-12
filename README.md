@@ -2,5 +2,5 @@ Are you interested in selling your vehicle, or are you wondering how much a cert
 
 Examples:<br>
 
-<img src="https://github.com/wesleychou7/used-car-price/blob/main/images/bmw.png" width="300"> <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/jeep.png" width="300">  
-<img src="https://github.com/wesleychou7/used-car-price/blob/main/images/tesla.png" width="300"> <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/lexus.png" width="300">  
+<img src="https://github.com/wesleychou7/used-car-price/blob/main/images/bmw.png" width="300">  <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/jeep.png" width="300">  
+<img src="https://github.com/wesleychou7/used-car-price/blob/main/images/tesla.png" width="300">  <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/lexus.png" width="300">  
