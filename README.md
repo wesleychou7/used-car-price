@@ -11,4 +11,6 @@ is used or certified by the manufacturer, this program utilizes a dataset of
 
 <p>For an explanation of the code, see <a href="https://github.com/wesleychou7/used-car-price/blob/main/Used%20Car%20Price%20Prediction.ipynb">Used Car Price Prediction.ipynb</a></p>
 
-<div style="font-size: 15px; font-style: italic;">*The dataset consists mostly of cars manufactured in 2015-2022, so price predictions of cars outside this time frame may be inaccurate. Furthermore, the price predictions are more representative of the 2022 used car market than the current (2023) used car market.</div>*
+<i>*The dataset consists mostly of cars manufactured in 2015-2022, so price predictions of cars outside this time frame may be inaccurate. Furthermore, the price predictions are more representative of the 2022 used car market than the current (2023) used car market.</i>
+
+
