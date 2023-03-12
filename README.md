@@ -5,7 +5,7 @@
 <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/bmw.png" width="300">  <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/jeep.png" width="300">
 <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/tesla.png" width="300">  <img src="https://github.com/wesleychou7/used-car-price/blob/main/images/lexus.png" width="300">
 
-<p>Given the make, model, trim, year, and mileage, as well as whether the vehicle 
+<p>Given the make, model, trim, year, and mileage, as well as wether the vehicle 
 is used or certified by the manufacturer, this program utilizes a dataset of 
 9000+ used cars to calculate an estimated selling price of that particular vehicle*.</p>
 
