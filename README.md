@@ -5,3 +5,4 @@ Examples:<br>
 ![example](https://github.com/wesleychou7/used-car-price/blob/main/images/jeep.png)
 ![example](https://github.com/wesleychou7/used-car-price/blob/main/images/tesla.png)
 ![example](https://github.com/wesleychou7/used-car-price/blob/main/images/lexus.png)
+<img src="https://github.com/wesleychou7/used-car-price/blob/main/images/bmw.png" width="100">
