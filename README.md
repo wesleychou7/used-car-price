@@ -7,8 +7,8 @@
 
 <p>Given the make, model, trim, year, and mileage, as well as whether the vehicle 
 is used or certified by the manufacturer, this program utilizes a dataset of 
-9000+ used cars to calculate an estimated selling price of that particular car*.</p>
+9000+ used cars to calculate an estimated selling price of that particular vehicle*.</p>
 
 <p>For an explanation of the code, see <a href="https://github.com/wesleychou7/used-car-price/blob/main/Used%20Car%20Price%20Prediction.ipynb">Used Car Price Prediction.ipynb</a></p>
 
-<p>*The dataset consists mostly of cars manufactured in 2015-2022, so price predictions of cars outside this time frame may be inaccurate. Furthermore, the price predictions are more representative of the 2022 used car market, rather than the current (2023) used car market.</p>
+<i style="font-size: 18px">*The dataset consists mostly of cars manufactured in 2015-2022, so price predictions of cars outside this time frame may be inaccurate. Furthermore, the price predictions are more representative of the 2022 used car market, rather than the current (2023) used car market.</i>
